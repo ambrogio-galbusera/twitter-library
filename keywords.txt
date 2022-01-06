@@ -1,0 +1,10 @@
+Twitter	           KEYWORD1
+getTweetsByHashTag KEYWORD2
+getTweetsByAuthor  KEYWORD2
+process            KEYWORD2
+completed          KEYWORD2
+lastError          KEYWORD2
+numTweets          KEYWORD2
+tweetAt            KEYWORD2
+tweet              KEYWORD2
+updateStatus       KEYWORD2 
